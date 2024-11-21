@@ -27,7 +27,7 @@ This is one of my Favorite lines:
 + Problem Solving Skills
 + DSA
 + HTML
-+ Languages : C++ , C 
++ Languages : C++, C 
 
 #### Interests : 
 * Dancing
